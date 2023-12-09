@@ -9,23 +9,39 @@ Tutorial Link: https://youtu.be/28VGzUYVEl0
 License Key: https://hostingprovider.co.in/whmcs-modules/
 
 **Credentials for testing:**
+
 Merchant ID: PGTESTPAYUAT
+
 Salt Key: 099eb0cd-02cf-4e2a-8aca-3e6c6aff0399
+
 Salt Index: 1
+
 Sandbox URL: https://api-preprod.phonepe.com/apis/pg-sandbox/pg/v1
+
 License Key: Generated while purchasing module
 
 **Testing Cards & Bank Details:**
+
 Credit Card
+
 Card Number: 4208585190116667
+
 Card Name": VISA,
+
 Expiry Date: 06/27
+
 CVV: 508
+
 OTP: 123456
 
 **Credentials for Live:**
+
 Merchant ID: Provided by PhonePe
+
 Salt Key: Provided by PhonePe
+
 Salt Index: Provided by PhonePe
+
 Production URL: https://api.phonepe.com/apis/hermes/pg/v1
+
 License Key: Generated while purchasing module
